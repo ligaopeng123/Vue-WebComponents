@@ -7,7 +7,7 @@
 
       <user-card
               image="https://semantic-ui.com/images/avatar2/large/kristy.png"
-              name="李高明"
+              name="test"
               email="yourmail@some-email.com"
       ></user-card>
 
