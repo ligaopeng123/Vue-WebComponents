@@ -29,6 +29,7 @@ export default {
 
   },
   methods: {
+    // 测试web组件生命周期
     onclick() {
       this.show = !this.show;
     }
